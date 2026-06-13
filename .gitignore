@@ -1,7 +1,12 @@
 .agents/
 .claude/
 .codex/
-.trellis/
+.trellis/.backup-*/
+.trellis/.runtime/
+.trellis/.cache/
+.trellis/worktrees/
+.trellis/.template-hashes.json
+.trellis/**/__pycache__/
 
 __pycache__/
 *.py[cod]
