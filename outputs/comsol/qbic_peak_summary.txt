@@ -1,0 +1,13 @@
+qBIC-inspired refined spectral summary
+R_peak_wavelength_nm=849.0
+R_peak_reflectance=0.9971797801526613
+F4_peak_wavelength_nm=843.0
+F4_peak_value_raw=7.27016821726813e+34
+low_F4_wavelength_nm=811.0
+low_F4_value_raw=1.250548894206053e+31
+baseline_reflectance=0.7746990637997959
+half_level=0.8859394219762287
+fwhm_nm=27.748646202644295
+spectral_width_proxy_Q_from_reflectance_FWHM=30.596087239711714
+method=1 nm wavelength sweep, half-height crossing by linear interpolation.
+note=Simplified lossless qBIC-inspired model; this Q is a spectral-width proxy, not a reliable qBIC modal Q or experiment reproduction.

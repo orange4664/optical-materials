@@ -1,0 +1,1 @@
+TCMT outputs are normalized pedagogical proxies. They illustrate detuning, Q, external coupling, and qBIC asymmetry trade-offs rather than fitting a specific experiment.
