@@ -1,0 +1,14 @@
+.agents/
+.claude/
+.codex/
+.trellis/
+
+__pycache__/
+*.py[cod]
+
+hs_err_pid*.log
+
+outputs/final_package/
+
+.DS_Store
+Thumbs.db
